@@ -1,5 +1,8 @@
 # afterschool
 
+- Local:   http://localhost:8080/ 
+  - Network: http://10.53.1.148:8080/
+
 ## Project setup
 ```
 npm install
